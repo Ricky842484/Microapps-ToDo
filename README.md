@@ -7,5 +7,8 @@ Only download from Microapps
 Download Page and github
 download page.
 
-# App Created by:
-Sketchware Android App
+# App Created with/by
+With : Sketchware Android App
+With : Redmi 2 Prime (2014817) 
+       (Device that used to program)
+By : Ricky Cheung
