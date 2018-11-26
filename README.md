@@ -3,9 +3,11 @@ This is a To-do list app. <br>
 Is used to make a To-do list.
 
 # Downloads
-Only download from Microapps<br>
-Download Page and github<br>
-download page.
+<h2>Only download from Microapps
+website download Page and github
+download page only.</h2>
+
+GitHub Download Page: https://github.com/Ricky842484/Microapps-ToDo/releases
 
 # App Created with/by
 With : Sketchware Android App<br>
