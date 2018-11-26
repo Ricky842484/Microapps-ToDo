@@ -9,8 +9,8 @@ download page.
 
 # App Created with/by
 With : Sketchware Android App<br>
-With : Redmi 2 Prime (2014817) <br>
-       (Device that used to program)<br>
+With : Redmi 2 Prime (2014817)
+(Device that used to program)<br>
 By : Ricky Cheung<br>
 <br>
 
